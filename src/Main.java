@@ -48,7 +48,7 @@ public class Main {
         }
 
         if (missingDigits>0){
-            System.out.println("You have lost!!!!!!!");
+            System.out.println("You have lost!!!!!!!!");
         }
         else {
             System.out.println("Congratulations! You made it!");
